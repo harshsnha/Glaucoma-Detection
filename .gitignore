@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+
+train/
+validation/
+test/
+
+*.zip
+kaggle.json
+.env
+.DS_Store
